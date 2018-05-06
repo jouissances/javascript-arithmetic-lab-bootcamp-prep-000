@@ -33,4 +33,4 @@ function preserveDecimal(n) {
   return parseFloat(n)
 }
 
-console.log(add);
+console.log(add(a,b));
